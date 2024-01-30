@@ -1,0 +1,9 @@
+[submodule "pyperformance"]
+	path = pyperformance
+	url = https://github.com/python/pyperformance.git
+[submodule "pyston-benchmarks"]
+	path = pyston-benchmarks
+	url = https://github.com/pyston/python-macrobenchmarks.git
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/jeffersglass/cpython.git

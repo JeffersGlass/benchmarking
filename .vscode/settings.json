@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pycore_opcode_metadata.h": "c",
+        "system_error": "c"
+    }
+}
